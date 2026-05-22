@@ -216,6 +216,6 @@ Recommended Platform:
 
 ## Author
 
-Varun Bonthala 
+Varun Bonthala  
 B.Tech Computer Science and Engineering  
 Cybersecurity Enthusiast
